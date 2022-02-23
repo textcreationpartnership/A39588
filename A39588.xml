@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short narrative of Mr. Fitz-Gerald who lately was summoned up from Bristol by one of His Majesties messengers, to the honourable Privy Council, for suspicion of high treason : giving a brief account of his carriage there at the board, his innocency, and other particulars relating to the farther discovery of this hellish popish plot.</title>
+            <author>Philalethes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39588</idno>
+            <idno type="STC">Wing F1075</idno>
+            <idno type="STC">ESTC R37346</idno>
+            <idno type="EEBO-CITATION">16396465</idno>
+            <idno type="OCLC">ocm 16396465</idno>
+            <idno type="VID">105349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105349)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1092:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short narrative of Mr. Fitz-Gerald who lately was summoned up from Bristol by one of His Majesties messengers, to the honourable Privy Council, for suspicion of high treason : giving a brief account of his carriage there at the board, his innocency, and other particulars relating to the farther discovery of this hellish popish plot.</title>
+                  <author>Philalethes.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Philalethes.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitz-Gerald, Maurice.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105349:1"/>
+            <pb facs="tcp:105349:1" rendition="simple:additions"/>
+            <p>A SHORT NARRATIVE OF Mr. Fitz-Gerald, Who lately was Summoned up from BRISTOL By one of His Majeſties Meſſengers, To the HONOURABLE PRIVY COUNCIL For SUSPICION of HIGH TREASON Giving a Brief Account of his Carriage there at the Board, his Innocency, and other particulars relating to the farther Diſco<g ref="char:EOLhyphen"/>very of this Helliſh POPISH PLOT.</p>
+            <q xml:lang="lat">
+               <p>Omnibus qui patriam conſervaverint, adjuverint, auxerint, certus eſt coelo, &amp; definitus locus, ubi beati aevo ſempiterno fruuntur.</p> 
+               <bibl>Cicero.</bibl>
+            </q>
+            <p>Printed in the Year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105349:2"/>
+            <pb n="1" facs="tcp:105349:2"/>
+            <head>A SHORT NARRATIVE OF Mr. Fitz-Gerald,</head>
+            <head type="sub">VVho was lately Summoned up from <hi>Briſtol,</hi> by one of His Majeſties Meſſengers, to the Honourable Privy Council, for ſuſpicion of High-Treaſon, giving a Brief Account of his Carriage there at the Board, his Innocency, and other particulars relating to the farther Diſcovery of this Helliſh <hi>Popiſh Plot.</hi>
+            </head>
+            <p>MR. <hi>Fitz-Gerald</hi> formerly a <hi>Franciſcan,</hi> Lecturer of Philoſophy, and Student of Divinity in <hi>Ireland,</hi> having been very diligent and ſtudious in the reading of Books of Controverſies, ſuch as <hi>Thomas Aquinas, &amp;c.</hi> and being very deſirous to ſatisfie and ſettle his mind upon the beſt Baſis and Foundation, which had been for a long time very wavering, found very ſenſibly that the Church of <hi>Rome</hi> both in her Doctrine and Manners, had departed in many weighty points from her primitive purity, for which the Ancient <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> in St. <hi>Paul</hi>'s time were ſo highly commended, and their faith become famous throughout the Univerſe; and that now the Church of <hi>Rome</hi> ha<g ref="char:EOLhyphen"/>ving apoſtatized, and ſo far degenerated from her primitive Integrity, was no longer to be embraced by him, but to be accounted no better than a ſpu<g ref="char:EOLhyphen"/>riour Harlot by all good Chriſtians. To this end therefore, that he might
+<pb n="2" facs="tcp:105349:3"/>
+ſet himſelf ſeriouſly to this ſo neceſſary a work of his Converſion, there being ſeveral errours which that Church maintains, and of which he could not be well ſatisfied, by his reading of their Divines and Authors; he of<g ref="char:EOLhyphen"/>ten conferred with many perſons accounted learned of ſeveral ſtrange points and opinions which that Church holds, ſuch as <hi>Tranſubſtantiation, Purgatory, &amp;c.</hi> who gave have him not the leaſt content and ſatisfaction to thoſe Que<g ref="char:EOLhyphen"/>ries he propoſed to them. Since therefore that in <hi>Ireland</hi> he found ſo little ſucceſs, he reſolved to travel into <hi>France</hi> and <hi>Italy,</hi> where he converſed and often diſputed, with the moſt famous and learned of thoſe Nations, but was no wiſer than before; and the more he conſider'd of their tenets, he found nothing but ſenſleſs abſurdities contained in that Idolatrous Religion, and thus concluded with himſelf, that no perſons of common ſenſe, and en<g ref="char:EOLhyphen"/>dued with any reaſon, could believe or give their aſſent to them, who make <hi>Ignorance the mother of Devotion,</hi> and deprive men of the Word of God, which as the Apoſtle has told us, <hi>is only able to make us wiſe unto ſalva<g ref="char:EOLhyphen"/>tion,</hi> who introduce in the room of it, their own ſenſleſs and ridiculous fop<g ref="char:EOLhyphen"/>peries, empty gaudy Pageantry, to amuſe poor ignorant ſouls with the out<g ref="char:EOLhyphen"/>ward ſplendor of it, full of empty Ceremonies, but quite deſtitute of that Innocency, meekneſs and ſpotleſs purity, which becomes the Goſpel of Chriſt, as it was delivered and taught by our bleſſed Saviour himſelf, and tranſmitted down unto us by the holy Apoſtles; the Church of <hi>Rome</hi> holding only the name of Chriſtians, and every day becoming more and more odious unto all perſons; who daily forſake her Communion, and ab<g ref="char:EOLhyphen"/>hor to have any ſociety with her, by reaſon of her abominable practices, damnable and no leſs than Atheiſtical Principles, Helliſh Plots, counte<g ref="char:EOLhyphen"/>nancing Maſſacres, and Treaſonable Contrivances, which ſhe daily in<g ref="char:EOLhyphen"/>fuſes, and perpetually inſtills into the minds of her deluded Votaries; who walking blindfold through an implicit faith of obedience which they ſup<g ref="char:EOLhyphen"/>poſe is due to their Church, and the Popes Infallibility, refuſe no at<g ref="char:EOLhyphen"/>tempts impoſed on them, though never ſo Diabolical, and hope to merit Heaven, by aſſaſſinating Kings, and deſtroying Kingdoms; ſubverting Laws and the Government; and endeavour to make all thoſe Hereticks which oppoſe them, to truckle under the Popes Dominion; whom they blaſphemouſly call by no leſs a name and title than this, <hi>Deus Noſter Papa, Our Lord God the Pope.</hi>
+            </p>
+            <p>Having ſeriouſly ponder'd and weigh'd theſe things before-mentioned, he thereupon fully purpoſed to leave thoſe Countreys, and come for <hi>England</hi> where he hoped to find, not only greater ſatisfaction in his Conſcience, as to Religion, by conferring with thoſe many worthy and Reverend Divines which abound amongſt us; but likewiſe to ſerve his King and Countrey, in ſome very weighty Diſcoveries, mindful of that memorable ſaying of <hi>Cicero, non nobis nati ſumus, ſed partim patriae, &amp;c.</hi> Men are not born for themſelves, but for their Countrey, Parents, Kindred, and Friends; but our Countrey above all the reſt ought to have the Preheminence, as <hi>Ovid</hi> very well,
+<q xml:lang="lat">
+                  <l>Neſcio qua natale ſolum dulcedine cunctos</l>
+                  <l>Ducit, &amp; immemores non ſinit eſſe ſui.</l>
+               </q>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:105349:3"/>
+Theſe his Diſcoveries are touching the Plot in <hi>Ireland,</hi> how affairs were there carried on by the Popiſh Party, to ſubvert and deſtroy the Govern<g ref="char:EOLhyphen"/>ment now eſtabliſhed amongſt us, and to bring Popiſh Anarchy and Con<g ref="char:EOLhyphen"/>fuſion in the room of it, wherein they were indefatigably induſtrious; for ſeveral Popiſh Biſhops met, and had divers Conſultations and Meetings, near the River <hi>Shannon</hi> in <hi>Ireland,</hi> very large ſummes of Money were raiſed to carry on their deſign, the Popes Legate was in <hi>Ireland,</hi> and did encourage the Popiſh Party in this their Enterprize, as likewiſe to diſpoſe of the Kingdom for his Holineſs own uſe, great Encouragements and Prefer<g ref="char:EOLhyphen"/>ments were promiſed thoſe Perſons which would hazard their lives for the good of the Catholick cauſe, which was no leſs than meritorious; told them that this was an opportunity which by no means was to be neglected, but every one of their party muſt put a helping hand to it; they likewiſe took care that their youth ſhould be well exerciſed in Armes, and to be all ready when they ſhould be commanded to fight; he likewiſe gives us an Ac<g ref="char:EOLhyphen"/>count of a large veſſel which came from <hi>Spain,</hi> fraught with Powder, Ball, and all ſort of Armes and Ammunition, which was happily caſt away near <hi>Kingſale</hi> Harbour, no doubt to the great grief of all good Catholicks, who we may imagine were poſſeſt with no little Conſternation at this unlookt for unlucky Accident, who being ſuch exquiſite Incendiaries, no doubt would have made excellent uſe of that <hi>Cargo</hi> if it had landed, and come ſafe to them. But thus the Divine Providence defeats, and confounds the wicked and treacherous practices of unreaſonable and cruel men, who de<g ref="char:EOLhyphen"/>light in blood, and paſſionately deſire to embrew their hands in the blood of the Innocent, who cry aloud for vengeance to the Almighty, who does miraculouſly deliver them from ſuch Monſters, and brings them to condign puniſhment for ſuch Enormities.</p>
+            <p>But I only deſigning a ſhort diſcourſe of their proceedings in <hi>Ireland,</hi> you may ere long expect a more full, and exact Account in his own Depoſiti<g ref="char:EOLhyphen"/>ons which he does ere long intend to publiſh to the world, to the ſhame and confuſion of the Popiſh party, and for the content and ſatisfaction of all zealous Proteſtants, I proceed now therefore to his Jovrney.</p>
+            <p>Being come to <hi>London,</hi> and having little or no Acquaintance there, he made it his whole buſineſs, to enquire out ſome worthy perſon, to whom he might candidly impart ſo important an affair, knowing very well that delayes in a buſineſs of that Conſequence, were dangerous; but could not find any, with great patience enduring much want and diſtreſs, exiled his Native Countrey, ſtill waiting an opportunity to make himſelf and buſineſs known; not at all diſcouraged, but ſtill remaining very zealous to ſerve his King and Countrey, when ever he ſhould find an opportunity to meet with a real and cordial Friend who would promote his Affairs, and that he might freely diſcloſe his thoughts unto; who found out one, who at the firſt very civilly and courteouſly entertained him for ſome time; and in ſome things did aſſiſt him, but this laſted not long, for of a ſuddain he forſook him, and his buſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs, upon what grounds he knows not, not having been guilty of any Uncivility whereby he might incurr his diſpleaſure; finding therefore no hopes in him, he was forced to ſeek out ſome other, and very ſoon after he came acquainted with a Reverend perſon, unto whom he freely
+<pb n="4" facs="tcp:105349:4"/>
+diſcloſed his buſineſs; but for want of Encouragement he could not as yet proſecute it, whereupon he told him, he would ſerve him to the utmoſt of his power, and made it his whole Buſineſs to follow his Concerns. Mr. <hi>Fitz-Gerald</hi> daily viſited him, and conferred with him, deſirous that no delays might be, which he was very mindful of, but found not that quick diſpatch which he deſired; having tryed all wayes imaginable to procure him mo<g ref="char:EOLhyphen"/>ney but to no purpoſe; all his Friends being extreme backward in it, though no leſs than a National Concern, upon whoſe Journey, ſo much of good depended to theſe three Kingdoms; which indubitably is a very great diſcouragement to any perſon to concern himſelf with any thing of that nature, though obliged to ſerve his King and Countrey to the utmoſt of his capacity; when we ſee ſo few publick ſpirited perſons, who ſit at the helm of Government, and though they have vaſt Eſtates, will ſcarcely con<g ref="char:EOLhyphen"/>tribute one farthing, though it be for the ſaving of their own Throats, their Eſtates, Laws, Religion, and whatſoever is moſt ſacred or dear to them; which would indubitably have been all involv'd in the ſame preci<g ref="char:EOLhyphen"/>pice of deſtruction; had we not had [together with the Divine Providence which continually ſurrounds and encompaſſes us, as a ſure Bulwark, by it's ſecure protection,] likewiſe ſome very vigilant and induſtrious perſons, who make it their daily buſineſs to ſift out their inhumane and barbarous Pra<g ref="char:EOLhyphen"/>ctices, which ſuch Incendiaries as they are, have too often brought to paſs; but this Plot has now prov'd an abortive brat, not without an over-ruling Power ſenſibly perſpicuous in the hands of thoſe Inſtruments, which he has made to be <hi>Patres Patriae,</hi> the deliverers of their Countrey in a much more tranſcendent degree than any Roman Conquerour could claim after all his Victories and Trophees gained by his valour, over his Conquered and Sub<g ref="char:EOLhyphen"/>miſſive Captive Enemies, for now every day produces new Champions for the good of the Kingdom, which cut off this <hi>Hydra,</hi> as faſt as it grows, and will in time root her up, and leave her naked, expoſed to the contempt and ſcorn of all perſons, and again make good that ſaying of the Poet in ano<g ref="char:EOLhyphen"/>ther ſenſe than as he literally ſpoke it,
+<q xml:lang="lat">
+                  <l>—Jam ſeges eſt ubi Roma fuit.</l>
+               </q>
+            </p>
+            <p>My zeal for my Countrey has tranſported me thus far out of my way, now I ſhall reaſſume the thred of my Diſcourſe; His friend finding no poſſibility of any ſupplies from thoſe whom he was in hopes to have received it from, having a ſum of Money by him reſolves at his own Coſt and Charge, to ſend him, and another perſon, one Mr. <hi>Charleton,</hi> lately a Clark to that worthy Juſtice of the Peace Sir <hi>William Waller,</hi> to whom our Nation is not a little obliged for his indefatigable diligence, and daily Induſtry in detecting Po<g ref="char:EOLhyphen"/>piſh Prieſts and Jeſuites, which before the diſcovery of the Plot, like ſo many Locuſts, did ſwarm in every Corner of this Kingdom, and infect with their poiſonous doctrine, and do more hurt than thoſe Locuſts did the <hi>Aegyp<g ref="char:EOLhyphen"/>tians;</hi> through his Care we are now bleſſed be God pretty well rid of them, being a true and lively pattern of Loyalty to his Soveraign, and whom all true ſubjects ſhould imitate, zealouſly to promote the Proteſtant Intereſt; but this by the by, the better to clear my diſcourſe concerning this <hi>Charle<g ref="char:EOLhyphen"/>ton,</hi> who was deſigned as Mr. <hi>Fitz-Geralds</hi> Companion in his Journey, which how well he behaved himſelf I will declare by and by.</p>
+            <p>
+               <pb n="5" facs="tcp:105349:4"/>
+Mr. <hi>Fitz-Gerald</hi> by the aſſiſtance of his friend had ſeveral Letters from perſons of Honour to further him in his buſineſs, when he was landed in <hi>Ireland,</hi> and Directions given him, how to manage his buſineſs when he came to <hi>Briſtol;</hi> thus having at length gotten thoſe neceſſaries which he wanted through the means and generoſity of his Reverend Friend; Mr. <hi>Fitz-Gerald,</hi> and this <hi>Charleton</hi> both took Coach at the <hi>Goat</hi> Tavern near <hi>Cheer<g ref="char:EOLhyphen"/>ing Croſs,</hi> to go for <hi>Briſtol,</hi> where they both arrived in a ſhort time, which they teſtified by many Letters ſent to <hi>London,</hi> Sr. <hi>John Knight</hi> the Mayor of <hi>Briſtol</hi> being requeſted to give his aſſiſtance, which he accordingly per<g ref="char:EOLhyphen"/>formed. The wind being contrary, here they were compelled to wait a fort<g ref="char:EOLhyphen"/>night or three weeks, which all that time continued and varied very little from one certain point, not ſufficient to land them in <hi>Ireland, Charleton</hi> in<g ref="char:EOLhyphen"/>ſtead of being an aſſociate, and co-helper with Mr. <hi>Fitz-Gerald,</hi> carryed him<g ref="char:EOLhyphen"/>ſelf very rudely towards him, not without opprobrious and uncivil Lan<g ref="char:EOLhyphen"/>guage, which he bore all along with great patience, but extreamly troubled in mind, becauſe that his buſineſs was retarded. Whileſt they were ſtill ex<g ref="char:EOLhyphen"/>pecting a fair wind, <hi>Charleton</hi> finds ſome papers of his under his Bolſter which were of no ſuch ſad Conſequence to him as High-Treaſon, for they were counterfeited by <hi>Charleton,</hi> and thoſe he had, only ſome Directions and <hi>Memorandums,</hi> for his memory, to aſſiſt him when he came to <hi>Ireland.</hi> Mr. <hi>Fitz-Gerald</hi> ſearching his Pockets ſoon miſt his Papers, and ſent the Maid of the houſe up ſtairs, to ſee for them, who told him ſhe had narrowly ſearcht the bed, and could find none; whereupon he taxed <hi>Charleton</hi> with them, who confeſt he had them, and that he muſt go along with him before a Juſtice of the Peace, who accordingly went with him, there he ſwore po<g ref="char:EOLhyphen"/>ſitively that he was a Popiſh Prieſt, and alledged High Treaſon againſt him, who (although innocent of what was laid to his Charge) com<g ref="char:EOLhyphen"/>mitted him to <hi>Briſtol</hi> Gaol, where he remained three dayes, very civilly uſed by all the Priſoners, and eſpecially by the Maſter of the Priſon, and viſited by ſeveral perſons of Quality in the Town, who flocked to ſee him, and there during his Confinement ſhewed him great reſpect and kind<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Preſently after his Commitment news of him being brought to the Coun<g ref="char:EOLhyphen"/>cil, Captain <hi>Carter</hi> a very civil, obliging perſon, and one of his Majeſties Meſſengers, by eſpecial order from the Privy Council, and the King's eſpecial Warrant, was ordered by the Lords to take into his Cuſtody the body of Mr. <hi>John Fitz-Gerald,</hi> who immediately according to order went to <hi>Briſtol,</hi> and brought Mr. <hi>Fitz-Gerald</hi> as his Priſoner up to <hi>London</hi> before his Maje<g ref="char:EOLhyphen"/>ſties moſt Honourable Privy Council, where he accordingly appeared, and gave their Lordſhips full ſatisfaction in all things concerning his Papers, him<g ref="char:EOLhyphen"/>ſelf and Buſineſs, was by their Lordſhips diſcharged and ordered to proceed on his Journey, who acquainting their Lordſhips with his indiſpoſition by his Journey, and being an infirm perſon, he deſired ſome reſpite for two or three dayes, and then he would obey their Lordſhips Commands, if thoſe neceſſaries were provided for him which he muſt neceſſarily have along with him, to which Anſwer was made he ſhould have them, whereupon he with<g ref="char:EOLhyphen"/>drew, and Mr. <hi>Charleton</hi> was committed to the <hi>Gate-houſe,</hi> though ſince he is as I am informed releaſed.</p>
+            <p>
+               <pb n="6" facs="tcp:105349:5"/>
+Thus have I given a ſhort and impartial Account of Mr. <hi>Fitz Geralds</hi> pro<g ref="char:EOLhyphen"/>ceedings, concerning whom we have had little or no ſatisfaction in ſome of our Intelligénces; I hope at his return from <hi>Ireland,</hi> we ſhall have a com<g ref="char:EOLhyphen"/>pleat, and more full account of his Journey, and of his Diſcovery; and this in the mean time was printed to ſatisfie all ſober people of his Innocency, and vindicate him from that aſperſion, and calumny of being a <hi>Jeſuite,</hi> whoſe Principles I am very confident, are far different from his, who has embraced our dear Mother the Church of <hi>England,</hi> and puts himſelf under her pro<g ref="char:EOLhyphen"/>tection and ſafeguard, from whom none can ſtray, but be worſe, who deteſts and abhorrs thoſe Tenents which the Church of <hi>Rome</hi> do maintain; and who is likewiſe deſirous and ambitious of nothing, ſo much as to be ſerviceable in his Generation, and in that Station wherein God has placed him, to make a farther diſcovery of their Plots and Intrigues, for which purpoſe he is now gone, and for whoſe good ſucceſs and happy return, all will pray, who wiſh the proſperity, and happy Tranquillity of theſe three Kingdoms. That <hi>Popiſh Plots</hi> may be more and more confounded, and detected, and the <hi>Proteſtant Religion</hi> eſtabliſhed to us, and ours, is, and ſhall be, the ſincere and hearty prayer to the Throne of Grace,</p>
+            <closer>
+               <salute>Dear Countreymen,</salute> 
+               <signed>Of your humble Servant,
+Philalethes.</signed>
+            </closer>
+            <pb facs="tcp:105349:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
